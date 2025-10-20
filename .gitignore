@@ -1,1 +1,16 @@
-d
+Byte-compiled
+
+pycache/
+*.py[cod]
+*.ipynb_checkpoints
+
+Data & artifacts
+
+data/
+artifacts/
+exports/
+tmp/
+
+OS
+.DS_Store
+Thumbs.db
